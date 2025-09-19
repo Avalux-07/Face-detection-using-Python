@@ -5,4 +5,3 @@
 # 3. import cv2
 # Output:
 Detect human front face in realtime through local camera 
-
